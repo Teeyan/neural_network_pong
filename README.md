@@ -8,13 +8,13 @@ Necessary Libraries :
 
 Relevant Files for playing :
 
-weights_.txt files
-bias_.txt files
+* weights_.txt files
+* bias_.txt files
 
-behavioral_cloning.py
-pong.py - for human vs agent gameplay
-cpu_pong.py - for agent vs wall gameplay
-environment.py - for agent vs wall gameplay
+* behavioral_cloning.py
+* pong.py - for human vs agent gameplay
+* cpu_pong.py - for agent vs wall gameplay
+* environment.py - for agent vs wall gameplay
 
 Running under python3. Just running respective scripts pong.py and cpu_pong.py will launch the game.
 
